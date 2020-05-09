@@ -1,6 +1,5 @@
 ## Allan Avendano's website
 
-See [kbroman.org](https://kbroman.org).
 
 ---
 
