@@ -18,11 +18,11 @@ module JB
   class Path
     SOURCE = "."
     Paths = {
-      :layouts => "_layouts",
-      :themes => "_includes/themes",
-      :theme_assets => "assets/themes",
-      :theme_packages => "_theme_packages",
-      :posts => "_posts"
+      :layouts => "models/_layouts",
+      :themes => "models/_includes/themes",
+      :theme_assets => "models/assets/themes",
+      :theme_packages => "models/_theme_packages",
+      :posts => "models/_posts"
     }
     
     def self.base
